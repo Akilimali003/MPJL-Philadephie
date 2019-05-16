@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Philadelphie MPJL</string>
+
+    <string name="text_view_login">Se connecter -></string>
+    <string name="text_view_create_account">Créer compte -></string>
+    <string name="text_view_not_yet_register">
+        <u>Créer compte ?</u>
+    </string>
+    <string name="text_view_already_register">
+        <u>Se connecter à votre compte</u>
+    </string>
+
+    <string name="edit_text_email">Email</string>
+    <string name="edit_text_password">Mot de passe</string>
+    <string name="edit_text_username">Nom d\'utilisateur</string>
+
+    <string name="btn_login">Connexion</string>
+    <string name="btn_register">Créer compte</string>
+    <string name="title_activity_biography">Biographie</string>
+    <string name="large_text">
+        "PETITE HISTORIQUE\n\n"
+
+        "Le ‘’Ministère de la Parole et de prière Jésus Christ Libère’’ a vu le jour une fois le pasteur et sa famille"
+        "étaient encore à Bukavu, Dieu lui avait dit, qu’il est un serviteur et il aidera beaucoup des personnes et "
+        "lui montra qu’il ouvrira une église à l’avenirmais en ce temps il n’était pas encore pasteur, Mais lui ne\n"
+        "savait pas encore où est ce qu’il commencera le travail, soudain un jour Dieu lui parla et lui dit, chez toi "
+        "n’est pas à Bukavu mais tu partiras à Goma et cela que tu m’ouvriras une église, et œuvreras en mon "
+        "nom.  C’est ainsi que nous avions quitté Bukavu pour nous installer à Goma, mais jusque là nous ne "
+        "savions pas comment ça allait se passer, mais en attendant nous avions eu une église qui nous a \n"
+        "accueillit et cela que nous entrions en ce temps-là. Étant la femme du pasteur j’ai intéressé mon mari "
+        "concernant l’église où nous entrerons puis il était d’accord mais en disant oui j’y viendrai mais c’est pour "
+        "un temps car j’ai aussi une vision que Dieu m’a donné.\n\n"
+
+        "Le pasteur décida de commencer à œuvrer chez lui à la maison.\n\n"
+
+        "car il avait aussi une vision, c’est ainsi qu’il disait, non ce n’est pas possible"
+        "de continuer à marcher dans la vision des autres or j’ai aussi la mienne que Dieu m’a donné. Il a continué "
+        "à œuvrer lui et sa famille, après les gens ont augmenter petit à petit, car nombreux souffraient du vrai "
+        "par des démons, il y avait des deuils chaque jour, c’est ainsi que le pasteur travaillait beaucoup, il "
+        "délivrait tant des personnes, il fut un certain moment l’église devenait comme un hôpital les gens venait \n"
+        "rester là jusqu’à leurs guérison, certain quittaient même l’hôpital (2 personnes) pour venir vivre dans "
+        "l’église jusqu’au moment de leurs guérisons, on signait la décharge avec les docteurs, si les personnes "
+        "mourront, alors nous en serons coupables… \n\n"
+
+        "Miracles et guerison totale.\n\n"
+
+        "les gens qui étaient possédés par les démons ont reçus leurs "
+        "guérisons, les malades étaient guéris, beaucoup d’autres voulaient le travail, ils l’avaient reçus."
+        "Et bien d’autre miracles. \n\n"
+        "Objectif \n\n "
+        "1. Aider les gens à avoir l’intimité avec Dieu et recevoir le salut et un jour qu’ils puissent voir sa face.\n\n"
+        "2. Comme Jésus dit, venez en moi vous tous qui étiez chargé par le fardeau et je vous donnerai du repos.\n\n"
+        "3. Montrer les gens comment avoir confiance en Dieu et savoir que c’est seulement lui notre seul et unique "
+        "sauveur (Jésus Christ).\n"
+        "C’est la voie que nous sommes venus montrer aux gens.\n\n"
+
+        "Verset clé de l’église.\n\n"
+
+        "La foi vient de ce que l’on entend et ce que l’on entend vient de la parole de Dieu."
+        "Vision de l’église (spirituellement)"
+
+        "Comme Jésus nous a recommandé d’aller partout au monde et faite des nations ses disciples, de les "
+        "baptisés au nom du Père, du Fils et du Saint Esprit.\n\n"
+
+        "Autres objectifs(Charnels).\n\n"
+
+        "Former les papas et les mamans dans quelques métiers comme :\n"
+        " -  L’élevage,\n"
+        " -  Coupe et couture,\n"
+        " -	Ouvrir une école,\n"
+        " -	Ouvrir des hôpitaux,\n"
+        " -	Ouvrir des orphelinats,\n\n"
+        "Donc aider les gens à quitter dans la pauvreté, comme la mission de l’église est d’aider les gens "
+        "spirituellement et physiquement ainsi de suite."
+
+    </string>
+    <string name="settings">Paramètre</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "806252808138",
+    "firebase_url": "https://mpjl-philadelphie.firebaseio.com",
+    "project_id": "mpjl-philadelphie",
+    "storage_bucket": "mpjl-philadelphie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806252808138:android:d6f86d8557df7b08",
+        "android_client_info": {
+          "package_name": "cd.gamedesigner.vijey.philadelphiempjl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806252808138-ot9bso2537ag3c5rc7trhj8vgc1tbiom.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cd.gamedesigner.vijey.philadelphiempjl",
+            "certificate_hash": "3f558558b58360f13726cc3b687a76b979be9c8d"
+          }
+        },
+        {
+          "client_id": "806252808138-4im23vi40uec8cu65t1ub9kvdbrfvl19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASA1oCqVbGv0-TaPOyMRqVJ46qicSTJ6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806252808138-4im23vi40uec8cu65t1ub9kvdbrfvl19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
